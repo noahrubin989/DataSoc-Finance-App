@@ -3,6 +3,7 @@ import pandas as pd
 import yfinance as yf
 import matplotlib.pyplot as plt
 import plotly.express as px
+import statsmodels.api as sm
 
 
 def app():

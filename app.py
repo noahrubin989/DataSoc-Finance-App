@@ -1,4 +1,5 @@
 import streamlit as st
+import statsmodels.api as sm
 from multiapp import MultiApp
 from apps import (Hedging, MinVar)
 

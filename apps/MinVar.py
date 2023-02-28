@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objs as go
+import statsmodels.api as sm
 
 def app():
     st.title("Portfolio diversification")
